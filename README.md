@@ -39,9 +39,9 @@ push the boundaries of what's currently possible by creating software that helps
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-## 📫 Connect
+## Let's connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/samaypatel27)
-- 🌐 [Portfolio](https://samaypatel.netlify.app) *(add link)*
+<a href="https://linkedin.com/in/samaypatel27"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://samaypatel.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white"/></a>
 
 
