@@ -6,10 +6,10 @@ push the boundaries of what's currently possible by creating software that helps
 
 ## 🛠️ Tech Stack
 
-**Languages:** Java, C, C++, Python, SQL, HTML/CSS, JavaScript, R 
-**Libraries & Frameworks:** ReactJS, NextJS, FastAPI, XGBoost
-**Tools & Platforms:** Github, Linux, GDB, Postman, RStudio
-**Databases:** Firebase, SQLite, PostgreSQL
+**Languages:** Java, C, C++, Python, SQL, HTML/CSS, JavaScript, R <br>
+**Libraries & Frameworks:** ReactJS, NextJS, FastAPI, XGBoost<br>
+**Tools & Platforms:** Github, Linux, GDB, Postman, RStudio<br>
+**Databases:** Firebase, SQLite, PostgreSQL<br>
 
 
 ## 📫 Connect
