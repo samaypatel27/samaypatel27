@@ -6,8 +6,6 @@ push the boundaries of what's currently possible by creating software that helps
 
 ## Tech Stack
 
-## 🛠️ Tech Stack
-
 **Languages:**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -44,9 +42,6 @@ push the boundaries of what's currently possible by creating software that helps
 ## 📫 Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/samaypatel27)
-- 🌐 [Portfolio](https://yoursite.com) *(add link)*
-- 📧 patel.samay@example.com *(add email)*
+- 🌐 [Portfolio](https://samaypatel.netlify.app) *(add link)*
 
----
 
-*"Build things worth talking about."*
