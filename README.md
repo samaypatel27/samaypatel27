@@ -7,7 +7,7 @@ push the boundaries of what's currently possible by creating software that helps
 # Awards
 I have two 1st place awards at hackathons I competed at Ohio State during the Spring 2026 semester. These projects are pinned on my github account.
 - 1st Place at [Ohio State HACK/AI](https://hack.osu.edu/about-hack-ai/) hosted by the Artificial Intelligence Club
-- 1st Place at American Student Association [(ASA)](https://ww2.amstat.org/education/datafest/) Datafest hosted at Ohio State
+- 1st Place at American Student Association's or [ASA](https://ww2.amstat.org/education/datafest/) Datafest hosted at Ohio State
 
 
 
