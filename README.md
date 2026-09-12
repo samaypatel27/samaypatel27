@@ -6,7 +6,7 @@ push the boundaries of what's currently possible by creating software that helps
 
 # Awards
 I have four hackathon awards from 2026, including three 1st place finishes. These projects are pinned on my github account.
-- 1st Place at [Ohio State HACK/AI](https://hack.osu.edu/about-hack-ai/) hosted by the Artificial Intelligence Club, placing 1st out of 100+ teams
+- 1st Place at [Ohio State HACK/AI](https://hack.osu.edu/about-hack-ai/) hosted by the Artificial Intelligence Club, placing 1st out of 120+ teams
 - 1st Place at American Student Association's or [ASA Datafest](https://ww2.amstat.org/education/datafest/) hosted at Ohio State, placing 1st out of 30+ teams
 - 1st Place at **SMBC Hackathon** for company interns, placing 1st amongst 140 interns
 - 3rd Place at **Claude Hacks** hosted at Ohio State, placing 3rd out of ~30 teams
