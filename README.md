@@ -1,8 +1,6 @@
 # I'm Samay
 
-I'm a self-taught developer curious about ways I can leverage technology to build robust applications, 
-potentially with the intersection of Data Science. I'm seeking an opportunity where I can be part of something that will 
-push the boundaries of what's currently possible by creating software that helps businesses thrive.
+I'm a self-taught developer proficient in Java, Python, SQL, JavaScript/TypeScript, C/C++, Swift, Bash.
 
 # Awards
 I have four hackathon awards from 2026, including three 1st place finishes. These projects are pinned on my github account.
