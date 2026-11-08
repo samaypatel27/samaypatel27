@@ -3,7 +3,7 @@
 I'm a self-taught developer proficient in Java, Python, SQL, JavaScript/TypeScript, C/C++, Swift, Bash.
 
 # Awards
-I have four hackathon awards from 2026, including three 1st place finishes. These projects are pinned on my github account.
+I have four hackathon awards from 2026, including three 1st place finishes.
 - 1st Place at [Ohio State HACK/AI](https://hack.osu.edu/about-hack-ai/) hosted by the Artificial Intelligence Club, placing 1st out of 120+ teams
 - 1st Place at American Student Association's or [ASA Datafest](https://ww2.amstat.org/education/datafest/) hosted at Ohio State, placing 1st out of 30+ teams
 - 1st Place at **SMBC Hackathon** for company interns, placing 1st amongst 140 interns
